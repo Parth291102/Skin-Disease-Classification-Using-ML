@@ -36,8 +36,7 @@ Dataset Link: https://www.kaggle.com/datasets/joydippaul/mpox-skin-lesion-datase
 ```
 
 ## Demo
-
-https://github.ncsu.edu/pparikh2/ALDA_Project_Group21/assets/35501/09b5b9a0-690c-4470-8da0-f204b9a7f070
+https://drive.google.com/file/d/1guH007chK8KzDxKWUYkQiYC4K_hda2FR/view?usp=sharing
 
 ## Contributors
 1. Parth Parikh - pparikh2 - pparikh2@ncsu.edu
